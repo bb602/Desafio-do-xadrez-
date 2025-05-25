@@ -1,4 +1,4 @@
-desafio do xadrez ![IMG-20250525-WA0001](https://github.com/user-attachments/assets/7f46dbaf-3c23-4f20-9daf-1cbd305ab485)
+
 
 programar um jogo de xadrez em C, uma abordagem comum para representar o tabuleiro é usar uma matriz bidimensional de 8x8. Esta matriz reflete a organização visual do tabuleiro, onde cada célula pode armazenar informações sobre a peça que ocupa aquela casa. 
 Elaboração:
