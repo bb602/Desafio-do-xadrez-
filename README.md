@@ -1,30 +1,5 @@
-#include <stdio.h>
+https://images.app.goo.gl/mPvH8djyzrjCnBtw9
 
-// Representação do tabuleiro
-char tabuleiro[8][8];
-
-// Função para exibir o tabuleiro
-void exibirTabuleiro() {
-    for (int i = 0; i < 8; i++) {
-        for (int j = 0; j < 8; j++) {
-            printf("%c ", tabuleiro[i][j]);
-        }
-        printf("\n");
-    }
-}
-
-int main() {
-    // Inicialização do tabuleiro
-    for (int i = 0; i < 8; i++) {
-        for (int j = 0; j < 8; j++) {
-            tabuleiro[i][j] = '.'; // '.' para representar casas vazias
-        }
-    }
-
-    // Exibir o tabuleiro inicial
-    exibirTabuleiro();
-
-    return 0;
 }
 
 programar um jogo de xadrez em C, uma abordagem comum para representar o tabuleiro é usar uma matriz bidimensional de 8x8. Esta matriz reflete a organização visual do tabuleiro, onde cada célula pode armazenar informações sobre a peça que ocupa aquela casa. 
